@@ -10,7 +10,7 @@ Antalya, Turkey
 +905397097298
 
 ## About me
-My name is Nikia. I'm a procurement IT specialist yet. I'm going to finish RSS JavaScript course.
+My name is Nikia. I'm a procurement IT specialist yet. I'm going to finish RS School JavaScript course.
 
 ## Skills
 * HTML
